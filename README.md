@@ -10,7 +10,6 @@
 - 🥅 2021 Goals: Find projects that I feel pationate about and continue learning a lot!
 - ⚡ Fun fact: I'm a Harry Potter fan and like to play football
 
----
 
 ### Connect with me:
 
@@ -20,7 +19,6 @@
 
 [<img align="left" alt="Matias Zappino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
----
 
 ### Languages and Tools:
 
