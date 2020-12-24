@@ -17,7 +17,6 @@
 
 [<img align="left" alt="Matias Zappino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
