@@ -12,20 +12,12 @@
 - 🥅 2021 Goals: Find projects that I feel pationate about and continue learning a lot!
 - ⚡ Fun fact: I'm a Harry Potter fan and like to play football
 
-<br/>
 
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
 
 <img align="left" alt="Matias Zappino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-
-
-
-
-
-
-
 
 <br/>
 
@@ -40,6 +32,7 @@
 <img align="left" alt="Javascript" width="22px" src="https://simpleicons.org/icons/javascript.svg"/>
 <img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg"/>
 
+<br/>
 <br/>
 
 <details>
