@@ -1,4 +1,4 @@
-### Hi there, I'm Matias - [website] 👋
+### Hi there, I'm Matias - [linkedin] 👋
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&style=for-the-badge&logo=linkedin&message=Connect&color=0077B5)](https://www.linkedin.com/in/matiaszappino/)
 
