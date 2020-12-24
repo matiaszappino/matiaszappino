@@ -27,6 +27,12 @@
 
 <img align="left" alt="Visual Studio Code" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
 <img align="left" alt="Vi and Vim" width="22px" src="https://simpleicons.org/icons/vim.svg"/>
+<img align="left" alt="Virtualbox" width="22px" src="https://simpleicons.org/icons/virtualbox.svg"/>
+<img align="left" alt="Git" width="22px" src="https://simpleicons.org/icons/git.svg"/>
+<img align="left" alt="GitHub" width="22px" src="https://simpleicons.org/icons/github.svg"/>
+<img align="left" alt="C" width="22px" src="https://simpleicons.org/icons/c.svg"/>
+<img align="left" alt="Javascript" width="22px" src="https://simpleicons.org/icons/javascript.svg"/>
+<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg"/>
 
 ---
 
