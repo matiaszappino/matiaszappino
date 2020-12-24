@@ -10,6 +10,7 @@
 - 🥅 2021 Goals: Find projects that I feel pationate about and continue learning a lot!
 - ⚡ Fun fact: I'm a Harry Potter fan and like to play football
 
+---
 
 ### Connect with me:
 
