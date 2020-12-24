@@ -25,7 +25,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>]
+<img align="left" alt="Visual Studio Code" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
+<img align="left" alt="Vi and Vim" width="22px" src="https://simpleicons.org/icons/vim.svg"/>
+
 ---
 
 <details>
