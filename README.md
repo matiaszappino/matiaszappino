@@ -25,6 +25,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Visual Studio Code" width="22px" src="https://simpleicons.org/?q=visual"/>]
 ---
 
 <details>
