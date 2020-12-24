@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&style=for-the-badge&logo=linkedin&message=Connect&color=0077B5)](https://www.linkedin.com/in/matiaszappino/)
 
+<br/>
+
 ## Currently I'm a Full Stack Developer student at Holberton School!
 
 - 🔭 I just finished my first trimester at Holberton School!
@@ -10,12 +12,15 @@
 - 🥅 2021 Goals: Find projects that I feel pationate about and continue learning a lot!
 - ⚡ Fun fact: I'm a Harry Potter fan and like to play football
 
+<br/>
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="Matias Zappino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
 
 ### Languages and Tools:
 
@@ -28,6 +33,7 @@
 <img align="left" alt="Javascript" width="22px" src="https://simpleicons.org/icons/javascript.svg"/>
 <img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg"/>
 
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
