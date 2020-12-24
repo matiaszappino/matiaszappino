@@ -10,22 +10,15 @@
 - 🥅 2021 Goals: Find projects that I feel pationate about and continue learning a lot!
 - ⚡ Fun fact: I'm a Harry Potter fan and like to play football
 
----
 
 ### Connect with me:
-
----
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="Matias Zappino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
----
-
 ### Languages and Tools:
-
----
 
 <img align="left" alt="Visual Studio Code" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
 <img align="left" alt="Vi and Vim" width="22px" src="https://simpleicons.org/icons/vim.svg"/>
@@ -36,7 +29,6 @@
 <img align="left" alt="Javascript" width="22px" src="https://simpleicons.org/icons/javascript.svg"/>
 <img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg"/>
 
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
